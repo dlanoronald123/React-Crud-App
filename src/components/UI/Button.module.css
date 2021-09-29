@@ -11,6 +11,7 @@
 .button:active {
   background: #68ceac;
   border-color:#006141;
+  color:black;
 }
 
 .button:focus {
